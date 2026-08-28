@@ -16,6 +16,9 @@ Computer Science student at Otto von Guericke University Magdeburg.
 • Clean Architecture
 • iOS Development
 
+🔗 Current Project:
+https://github.com/Saburollah/study-organizer
+
 <!--
 **Saburollah/Saburollah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
