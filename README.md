@@ -1,18 +1,18 @@
 Hi, I'm Saburollah 👋
 
-Computer Science Student at OVGU Magdeburg
+Computer Science student at Otto von Guericke University Magdeburg.
 
-Current Project
-• Study Organizer
+💻 Currently building Study Organizer, a full-stack web application for students.
 
-Technologies
+🛠 Tech Stack
 • ASP.NET Core
 • C#
+• Entity Framework Core
 • PostgreSQL
 • Vue 3
 • TypeScript
 
-Currently Learning
+📚 Currently learning
 • Clean Architecture
 • iOS Development
 
